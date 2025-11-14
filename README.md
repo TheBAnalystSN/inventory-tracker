@@ -61,4 +61,5 @@ MDN Web Docs (Mozilla Developer Network) – for deeper explanations of related 
 
 Help from Bryan Santos, especially for correcting my folder structure
 
-These sources helped me better understand object-oriented programming in TypeScript and how modules should be organized.
+These sources helped me better understand object-oriented programming in TypeScript and how modules should be organized
+
