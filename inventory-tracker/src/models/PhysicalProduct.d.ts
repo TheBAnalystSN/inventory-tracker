@@ -1,2 +1,9 @@
-export {};
-//# sourceMappingURL=PhysicalProducts.d.ts.map
+import { Product } from "./Product";
+export declare class PhysicalProduct extends Product {
+    private weight;
+    constructor(sku: string, name: string, price: number, weight: number);
+    getPriceWithTax(): number;
+    get formattedWeight(): string;
+    displayDetails(): string;
+}
+//# sourceMappingURL=PhysicalProduct.d.ts.map
