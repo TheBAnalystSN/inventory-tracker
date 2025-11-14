@@ -24,7 +24,7 @@ Organizing the project this way helped avoid TypeScript module resolution issues
 
 ---
 
-## 📘 What the Inventory Tracker Does
+## What the Inventory Tracker Does
 
 The Inventory Tracker demonstrates:
 
@@ -38,7 +38,7 @@ The Inventory Tracker demonstrates:
 
 ---
 
-## 🛠️ How to Run the Project
+## How to Run the Project
 
 ### **1. Install Dependencies**
 
