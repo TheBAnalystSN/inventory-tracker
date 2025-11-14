@@ -63,3 +63,7 @@ Help from Bryan Santos, especially for correcting my folder structure
 
 These sources helped me better understand object-oriented programming in TypeScript and how modules should be organized
 
+This project helped me understand how to work with classes, inheritance, and modules in TypeScript. At first, I struggled with the folder structure and kept receiving import/export errors, which slowed me down. After getting help and reviewing documentation, I learned how TypeScript expects files to be organized, and everything became much clearer.
+
+I also learned how TypeScript compiles into JavaScript using tsconfig.json, how to resolve errors related to ES modules vs. CommonJS, and how to run my compiled code through Node. Overall, the project pushed me, but it gave me a stronger foundation in TypeScript and object-oriented programming
+
